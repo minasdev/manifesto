@@ -2,7 +2,7 @@
 
 **#1** O Minas Dev É uma iniciativa para integrar comunidades e qualquer ator do setor de Tecnologia da Informação de Minas Gerais, seja desenvolvedor, designer, social media, gestor, empreendedor, entusiasta, etc;
 
-**#2** O Minas Dev NÃO é nenhum tipo de comando central das comunidades, e para ser membro, basta se encaixar no Item #1.
+**#2** O Minas Dev NÃO é nenhum tipo de comando central das comunidades, e para ser membro, basta se encaixar no **Item #1**.
 
 **#3** O Minas Dev NÃO é agente ativo no cenário das comunidades de Minas Gerais até que seja solicitado por comunidades membros, ou seja, não espere movimentos partindo de qualquer tipo de "Comitê do Minas Dev", pois isso não existe, mas se assim for necessário num futuro, tal movimento será desenvolvido com naturalidade e bom senso entre os envolvidos.
 
