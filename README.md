@@ -10,7 +10,7 @@
 
 **#5** O Minas Dev É para as comunidades, o que as comunidades são para seus membros, use e abuse do Minas Dev, mas não esqueça de alimentá-lo. Participe e divulgue para seus amigos e para suas comunidades o Manifesto do Minas Dev, o Slack do Minas Dev, o Site do Minas Dev, o Facebook do Minas Dev, o Twitter do Minas Dev, etc. Espalhe a palavra como quiser, pois é evidente que sem ações conjuntas, qualquer benefício que o ideal almeje, morrerá com ele.
 
-**#6** O Minas Dev NÃO foi concebido para possuir dono, porém, o Minas Dev possui membros que mantêm a chama do ideal acessa e firme, e tais membros se destacam com naturalidade, uma vez que acreditam e se comprometem com a proposta da, e ATUALMENTE por necessidade de referencial, o Minas Dev é conduzido e liderado pelo Beto Muniz.
+**#6** O Minas Dev NÃO foi concebido para possuir dono, porém o Minas Dev possui membros que mantêm a chama do ideal acessa e firme, e tais membros se destacam com naturalidade, uma vez que acreditam e se comprometem com a proposta da causa.
 
 **#7** O Minas Dev APOIA qualquer causa voltada a diversidade e NÃO TOLERA, como também reage, a qualquer ação que vai contra a proposta de um mundo igual para todos.
 
