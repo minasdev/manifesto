@@ -14,7 +14,7 @@
 
 **#7** O Minas Dev APOIA qualquer causa voltada a diversidade e NÃO TOLERA, como também reage, a qualquer ação que vai contra a proposta de um mundo igual para todos.
 
-**#8** O Minas Dev e este Manifesto SÃO totalmente aberto a sugestões de melhorias e críticas. NÃO SEJA PASSIVO COM SUA COMUNI. Só assim a roda gira e evoluímos.
+**#8** O Minas Dev e este Manifesto SÃO totalmente abertos a sugestões de melhorias e críticas. NÃO SEJA PASSIVO COM SUA COMUNI. Só assim a roda gira e evoluímos.
 
 ## License
 
