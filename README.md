@@ -1,4 +1,4 @@
-## Manifesto Minas Dev
+## Minas Dev Manifesto
 
 **#1** O Minas Dev É uma iniciativa para integrar comunidades e qualquer ator do setor de Tecnologia da Informação de Minas Gerais, seja desenvolvedor, designer, social media, gestor, empreendedor, entusiasta, etc;
 
