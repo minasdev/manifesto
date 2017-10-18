@@ -6,7 +6,7 @@
 
 **#3** O Minas Dev NÃO é agente ativo no cenário das comunidades de Minas Gerais até que seja solicitado por comunidades membros, ou seja, não espere movimentos partindo de qualquer tipo de "Comitê do Minas Dev", pois isso não existe, mas se assim for necessário num futuro, tal movimento será desenvolvido com naturalidade e bom senso entre os envolvidos.
 
-**#4** O Minas Dev INCENTIVA a divulgação dele como apoio das comunidades membros, porém deixa explícito a necessidade de diálogo prévio com os envolvidos para avaliação de fragilidades ou equívocos, para assim manter a solidez do movimento e da marca, mas principalmente, visando respeitar o esforço de várias pessoas que se comprometem com o ideal carregado pela marca e pelo nome.
+**#4** O Minas Dev INCENTIVA a divulgação dele como apoio das comunidades membros, porém deixa explícito a necessidade de diálogo prévio com os envolvidos para avaliação de fragilidades ou equívocos, para assim manter a solidez do movimento e da marca, mas principalmente, visando respeitar o esforço das pessoas que se comprometem ou já se comprometeram com o ideal carregado pela marca e pelo nome.
 
 **#5** O Minas Dev É para as comunidades, o que as comunidades são para seus membros, use e abuse do Minas Dev, mas não esqueça de alimentá-lo. Participe e divulgue para seus amigos e para suas comunidades o Manifesto do Minas Dev, o Slack do Minas Dev, o Site do Minas Dev, o Facebook do Minas Dev, o Twitter do Minas Dev, etc. Espalhe a palavra como quiser, pois é evidente que sem ações conjuntas, qualquer benefício que o ideal almeje, morrerá com ele.
 
