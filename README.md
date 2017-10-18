@@ -8,7 +8,7 @@
 
 **#4** O Minas Dev INCENTIVA a divulgação dele como apoio das comunidades membros, porém deixa explícito a necessidade de diálogo prévio com os envolvidos para avaliação de fragilidades ou equívocos, para assim manter a solidez do movimento e da marca, mas principalmente, visando respeitar o esforço de várias pessoas que se comprometem com o ideal carregado pela marca e pelo nome.
 
-**#5** O Minas Dev É para as comunidades, o que as comunidades são para seus membros, use e abuse do Minas Dev, mas não esqueça de alimentá-lo e ser ativo em seus canais de comunicação. Participe e divulgue para seus amigos e para suas comunidades o Manifesto do Minas Dev, o Slack do Minas Dev, o Site do Minas Dev, o Facebook do Minas Dev, o Twitter do Minas Dev, enfim, espalhe a palavra como quiser, pois é evidente que sem ações conjuntas, qualquer benefício que o ideal almeje, morrerá com ele.
+**#5** #6 O Minas Dev É para as comunidades, o que as comunidades são para seus membros, use e abuse do Minas Dev, mas não esqueça de alimentá-lo. Participe e divulgue para seus amigos e para suas comunidades o Manifesto do Minas Dev, o Slack do Minas Dev, o Site do Minas Dev, o Facebook do Minas Dev, o Twitter do Minas Dev, etc. Espalhe a palavra como quiser, pois é evidente que sem ações conjuntas, qualquer benefício que o ideal almeje, morrerá com ele.
 
 **#6** O Minas Dev NÃO foi concebido para possuir dono, porém, o Minas Dev possui membros que mantêm a chama do ideal acessa e firme, e tais membros se destacam com naturalidade, uma vez que acreditam e se comprometem com a proposta da, e ATUALMENTE por necessidade de referencial, o Minas Dev é conduzido e liderado pelo Beto Muniz.
 
