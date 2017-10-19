@@ -5,7 +5,7 @@
     
       
     
-  **#1** O Minas Dev É uma iniciativa de integração entre comunidades e de qualquer ator dos setores de Tecnologia da Informação de Minas Gerais, seja desenvolvedor, designer, social media, gestor, empreendedor, entusiasta, etc;
+  **#1** O Minas Dev É uma iniciativa de integração entre as comunidades e membros dos setores de Tecnologia da Informação de Minas Gerais, ou seja, desenvolvedores, devops, db admins, designers, social media, gestores, empreendedores, entusiastas, etc;
 
 **#2** O Minas Dev NÃO é nenhum tipo de comando central das comunidades, e para ser membro, basta se encaixar no **Item #1**.
 
