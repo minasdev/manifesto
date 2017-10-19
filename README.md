@@ -1,14 +1,19 @@
 ## Minas Dev Manifesto
 
-**#1** O Minas Dev É uma iniciativa para integrar comunidades e qualquer ator do setor de Tecnologia da Informação de Minas Gerais, seja desenvolvedor, designer, social media, gestor, empreendedor, entusiasta, etc;
+
+  
+    
+      
+    
+  **#1** O Minas Dev É uma iniciativa de integração entre comunidades e de qualquer ator do setor de Tecnologia da Informação de Minas Gerais, seja desenvolvedor, designer, social media, gestor, empreendedor, entusiasta, etc;
 
 **#2** O Minas Dev NÃO é nenhum tipo de comando central das comunidades, e para ser membro, basta se encaixar no **Item #1**.
 
-**#3** O Minas Dev NÃO é agente ativo no cenário das comunidades de Minas Gerais até que seja solicitado por comunidades membros, ou seja, não espere movimentos partindo de qualquer tipo de "Comitê do Minas Dev", pois isso não existe, mas se assim for necessário num futuro, tal movimento será desenvolvido com naturalidade e bom senso entre os envolvidos.
+**#3** O Minas Dev NÃO é agente ativo no cenário das comunidades de Minas Gerais até que seja solicitado por comunidades membros, ou seja, não espere movimentos partindo de qualquer tipo de "Comitê do Minas Dev", pois isso não existe, mas se assim for necessário num futuro, tal movimento será desenvolvido com naturalidade e bom senso dos envolvidos.
 
-**#4** O Minas Dev INCENTIVA a divulgação dele como apoio das comunidades membros, porém deixa explícito a necessidade de diálogo prévio com os envolvidos para avaliação de fragilidades ou equívocos, para assim manter a solidez do movimento e da marca, mas principalmente, visando respeitar o esforço das pessoas que se comprometem ou já se comprometeram com o ideal carregado pela marca e pelo nome.
+**#4** O Minas Dev INCENTIVA a divulgação dele como APOIO das comunidades membros, porém deixa explícito a necessidade de diálogo prévio com os envolvidos para avaliação de fragilidades ou equívocos, para assim manter a solidez da iniciativa, e principalmente, sempre respeitar o esforço das pessoas que se comprometem ou já se comprometeram com o ideal carregado pela marca e pelo nome.
 
-**#5** O Minas Dev É para as comunidades, o que as comunidades são para seus membros, use e abuse do Minas Dev, mas não esqueça de alimentá-lo. Participe e divulgue para seus amigos e para suas comunidades o Manifesto do Minas Dev, o Slack do Minas Dev, o Site do Minas Dev, o Facebook do Minas Dev, o Twitter do Minas Dev, etc. Espalhe a palavra como quiser, pois é evidente que sem ações conjuntas, qualquer benefício que o ideal almeje, morrerá com ele.
+**#5** O Minas Dev É para as comunidades, o que as comunidades são para seus membros, use e abuse do Minas Dev, mas não esqueça de alimentá-lo. Participe e divulgue para seus amigos e para suas comunidades o [Manifesto do Minas Dev](https://github.com/minasdev/manifesto/edit/master/README.md), o [Slack do Minas Dev](https://slack.minasdev.org/), o [Site do Minas Dev](https://minasdev.org/), o [Facebook do Minas Dev](https://www.facebook.com/minasdev/), o [Twitter do Minas Dev](https://twitter.com/minasdev), etc. Espalhe a palavra como quiser, pois é evidente que sem ações conjuntas, qualquer benefício que o ideal almeje, morrerá com ele.
 
 **#6** O Minas Dev NÃO foi idealizado para possuir UM dono, porém o Minas Dev possui líderes que mantêm a chama do ideal acesa e firme, e tais membros são destacados com naturalidade, uma vez que se manifestam constantemente por acreditarem e se comprometerem com a proposta da causa, ATUALMENTE o Minas Dev é conduzido e liderado pelo [Beto Muniz](github.com/obetomuniz).
 
