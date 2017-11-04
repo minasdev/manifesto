@@ -1,13 +1,8 @@
 ## Minas Dev Manifesto
 
+ **#1** O Minas Dev É uma iniciativa de integração entre as comunidades e membros dos setores de Tecnologia da Informação de Minas Gerais, ou seja, desenvolvedores, devops, db admins, designers, social media, gestores, empreendedores, entusiastas, etc;
 
-  
-    
-      
-    
-  **#1** O Minas Dev É uma iniciativa de integração entre as comunidades e membros dos setores de Tecnologia da Informação de Minas Gerais, ou seja, desenvolvedores, devops, db admins, designers, social media, gestores, empreendedores, entusiastas, etc;
-
-**#2** O Minas Dev NÃO é nenhum tipo de comando central das comunidades, e para ser membro, basta se identificar com o **Item #1**.
+**#2** O Minas Dev NÃO é nenhum tipo de comando central das comunidades, e para ser membro, basta se identificar com o **Item #1** e respeitar seu [Código de Conduta](https://github.com/minasdev/codigo-de-conduta#código-de-conduta).
 
 **#3** O Minas Dev NÃO é agente ativo no cenário das comunidades de Minas Gerais até que seja solicitado por comunidades membros, ou seja, não espere movimentos partindo de qualquer tipo de "Comitê do Minas Dev", pois isso não existe, mas se assim for necessário num futuro, tal movimento será desenvolvido com naturalidade e bom senso dos envolvidos.
 
